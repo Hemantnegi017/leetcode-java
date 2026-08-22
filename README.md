@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -90,4 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hemantnegi017/leetcode-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hemantnegi017/leetcode-java/tree/master/0112-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
