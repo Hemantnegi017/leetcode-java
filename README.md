@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Hemantnegi017/leetcode-java/tree/master/0027-remove-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemantnegi017/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemantnegi017/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemantnegi017/leetcode-java/tree/master/1004-max-consecutive-ones-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Hemantnegi017/leetcode-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0344-reverse-string) |
