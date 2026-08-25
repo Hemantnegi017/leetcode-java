@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hemantnegi017/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Hemantnegi017/leetcode-java/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Hemantnegi017/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Hemantnegi017/leetcode-java/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hemantnegi017/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
