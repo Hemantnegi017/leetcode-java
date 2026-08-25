@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Hemantnegi017/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0344-reverse-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Hemantnegi017/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Hemantnegi017/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemantnegi017/leetcode-java/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Hemantnegi017/leetcode-java/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
