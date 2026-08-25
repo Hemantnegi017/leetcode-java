@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hemantnegi017/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hemantnegi017/leetcode-java/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemantnegi017/leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Hemantnegi017/leetcode-java/tree/master/0118-pascals-triangle) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hemantnegi017/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hemantnegi017/leetcode-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemantnegi017/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemantnegi017/leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hemantnegi017/leetcode-java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
