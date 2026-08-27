@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hemantnegi017/leetcode-java/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Hemantnegi017/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/Hemantnegi017/leetcode-java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
 ## Dynamic Programming
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Hemantnegi017/leetcode-java/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Hemantnegi017/leetcode-java/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
