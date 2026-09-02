@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemantnegi017/leetcode-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Hemantnegi017/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemantnegi017/leetcode-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Hemantnegi017/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemantnegi017/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemantnegi017/leetcode-java/tree/master/1004-max-consecutive-ones-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hemantnegi017/leetcode-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hemantnegi017/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemantnegi017/leetcode-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Hemantnegi017/leetcode-java/tree/master/0029-divide-two-integers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hemantnegi017/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
