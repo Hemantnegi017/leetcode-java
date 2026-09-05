@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hemantnegi017/leetcode-java/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Hemantnegi017/leetcode-java/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
